@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Preface
 
-> Content mainly made by `@3N[CN/JP/EN]`, converted to website & edited by `@prurite`.
-
 This is just the beta edition of the manual. Therefore, many things are subject to
 change during the updating process.
 

@@ -18,12 +18,12 @@ const config: Config = {
   url: 'https://prurite.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/Running-Train-Guide/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'prurite', // Usually your GitHub org/user name.
-  projectName: 'running-train-guide', // Usually your repo name.
+  organizationName: 'Prurite', // Usually your GitHub org/user name.
+  projectName: 'Running-Train-Guide', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
