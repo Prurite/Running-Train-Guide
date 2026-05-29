@@ -20,6 +20,14 @@ const config: Config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/Running-Train-Guide/',
 
+  scripts: [
+    {
+      src: 'https://static.cloudflareinsights.com/beacon.min.js',
+      defer: true,
+      'data-cf-beacon': '{"token": "96358b313c914a78b2fc882f3ca14de7"}',
+    },
+  ],
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Prurite', // Usually your GitHub org/user name.

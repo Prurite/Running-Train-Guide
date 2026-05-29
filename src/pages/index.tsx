@@ -1,6 +1,7 @@
 import type {ReactNode} from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
+import Head from '@docusaurus/Head';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
@@ -35,6 +36,12 @@ export default function Home(): ReactNode {
     <Layout
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
+      <Head>
+        <meta
+          name="google-site-verification"
+          content="KE97H2vNXV1oR7hU79FNF_LR647-sRSmkcHGIPoUvSA"
+        />
+      </Head>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
