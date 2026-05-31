@@ -1,0 +1,15 @@
+.comments {
+  border-top: 1px solid var(--ifm-toc-border-color);
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+}
+
+.title {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.fallback {
+  color: var(--ifm-color-emphasis-700);
+  margin: 0;
+}

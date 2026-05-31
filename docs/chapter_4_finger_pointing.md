@@ -18,7 +18,7 @@ Don't be afraid, Japanese is quite easy in pronunciation. And since people watch
 | い | イ | i | As in s**ee**d |
 | う | ウ | u | As in f**oo**d |
 | え | エ | e | As in b**e**d |
-| お | オ | o | As in c**old |
+| お | オ | o | As in c**o**ld |
 
 All kanas will never change their pronunciations, so just remember it reads basically the same all the time.
 
