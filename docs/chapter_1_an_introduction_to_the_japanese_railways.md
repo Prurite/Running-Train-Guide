@@ -221,6 +221,12 @@ With everything discussed above, it is very easy to find where to stop. Simply, 
 
 There is basically nothing more to talk about on this point, just find out the mark with corresponded number of your train consist if it has one. If not, stop at the left one.
 
+Please understand that in Japan, there are at least more than 1000 people on the platform waiting for a train in rush hours. If you just stop at anywhere you like, you will see 1000+ people running towards you, and probably the force is too strong that your train will be torn apart. So, please stop at the exact position to avoid this happen.
+
 ## ATS
 
-Just remember this is a thing that stops you when you did a mistake. If you want to confirm this, make sure you at least the brake handle is on B1 or B2. If it stops you, wait it stop, pull to EB, confirm ATS, and restart. But you’d better not as it will certainly let you have a huge delay. ~~(Which is a very serious issue in Japan)~~
+Just remember this is a thing that stops you when you did a mistake. 
+
+The ATS alarm is triggered when there's a yellow or red signal ahead. To acknowledge the alarm, *apply brakes* and press the `ATS confirm` button. If there's still some distance to the stop position, you can release the brakes after confirmation.
+
+If not confirmed in time, it will stop you. To restart, push brake to EB, confirm ATS, and restart. But you’d better not as it will certainly let you have a huge delay. ~~(Which is a very serious issue in Japan)~~
